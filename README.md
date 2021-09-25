@@ -8,5 +8,3 @@ Here is the link to the live project hosted on Netlify: https://unichatjs.netlif
 
 ![UnichatCapture2](https://user-images.githubusercontent.com/73794416/134774388-a3559b38-d1df-4f64-95bd-ea7f28fdd13b.PNG)
 
-
-![image](https://user-images.githubusercontent.com/73794416/134737629-aa475c11-32fd-4544-970e-35e9836d10a1.png)
